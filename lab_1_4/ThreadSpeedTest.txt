@@ -1,0 +1,30 @@
+Tests for 1 threads:
+   test  1: 34763 milliseconds
+Tests for 2 threads:
+   test  1: 24047 milliseconds
+Tests for 3 threads:
+   test  1: 19792 milliseconds
+Tests for 4 threads:
+   test  1: 21188 milliseconds
+Tests for 5 threads:
+   test  1: 19602 milliseconds
+Tests for 6 threads:
+   test  1: 19455 milliseconds
+Tests for 7 threads:
+   test  1: 15553 milliseconds
+Tests for 8 threads:
+   test  1: 21688 milliseconds
+Tests for 9 threads:
+   test  1: 18353 milliseconds
+Tests for 10 threads:
+   test  1: 16616 milliseconds
+Tests for 11 threads:
+   test  1: 16771 milliseconds
+Tests for 12 threads:
+   test  1: 15825 milliseconds
+Tests for 13 threads:
+   test  1: 19877 milliseconds
+Tests for 14 threads:
+   test  1: 16516 milliseconds
+Tests for 15 threads:
+   test  1: 18470 milliseconds
